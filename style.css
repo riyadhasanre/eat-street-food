@@ -1,0 +1,21 @@
+.diet{
+    color:orange;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    font-size:60px;
+    color:rgb(85, 85, 97)
+
+}
+p{
+    font-size:20px;
+    color:rgb(153, 153, 158)
+}
+.order-food{
+    text-decoration: none;
+
+    background-image:linear-gradient(rgb(255, 138, 71));
+}
